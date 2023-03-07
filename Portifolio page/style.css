@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    box-sizing: border-box                                                                                                                  ;
+    margin: 0;
+
+
+
+
+} 
+
+
+
+body{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(to bottom ,rgb(247, 52, 247) 10%,rgb(45, 5, 144));
+}
+
+.direita{
+    background-color: red;
+    width: 50%;
+    height: 10rem;
+}
+
+.b1{
+    background-color: blue;
+    height: 20rem;
+    display: flex;
+    justify-content: end;
+}

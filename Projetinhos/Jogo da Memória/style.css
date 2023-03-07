@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: cyan;
+     
+
+
+}
+@font-face {
+    font-family: 'Game';
+    src: url(../Jogos/fontes/04B_30__.TTF);
+}
